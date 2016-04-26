@@ -1,6 +1,17 @@
 API Application for camptocamp.org v6
 =====================================
 
+Requirements
+------------
+
+ * Python 3.4
+ * PostgreSQL 9.4 / PostGIS 2.1
+ * virtualenv (1.7 or higher)
+
+On Debian/Ubuntu systems the required components may be installed using
+
+    sudo apt-get install virtualenv python3-dev postgresql-9.4 postgresql-9.4-postgis-2.1 postgresql-contrib-9.4 libpq-dev
+
 Checkout
 --------
 
