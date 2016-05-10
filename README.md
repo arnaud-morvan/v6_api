@@ -7,6 +7,8 @@ Requirements
  * Python 3.4
  * PostgreSQL 9.4 / PostGIS 2.1
  * virtualenv (1.7 or higher)
+ * ElasticSearch 2.3.2
+ * Redis 2.8
 
 On Debian/Ubuntu systems the required components may be installed using
 
