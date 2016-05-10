@@ -12,7 +12,9 @@ Requirements
 
 On Debian/Ubuntu systems the required components may be installed using
 
-    sudo apt-get install virtualenv python3-dev postgresql-9.4 postgresql-9.4-postgis-2.1 postgresql-contrib-9.4 libpq-dev
+    sudo apt-get install virtualenv python3-dev postgresql-9.4 postgresql-9.4-postgis-2.1 postgresql-contrib-9.4 libpq-dev redis-server
+
+The Debian package for ElasticSearch can be downloaded from https://www.elastic.co/downloads/past-releases/elasticsearch-2-3-2
 
 Checkout
 --------
